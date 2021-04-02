@@ -1,0 +1,7 @@
+.wp-polls-loading {
+	display: none;
+	text-align: center;
+	height: 16px;
+	line-height: 16px;
+}
+.wp-polls-image {border: 0px;}
